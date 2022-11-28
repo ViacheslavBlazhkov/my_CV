@@ -44,8 +44,8 @@ h1 {
 	display: flex;
 }
 .work-date {
-	padding: 0px 10px;
-	width: 100px;
+	padding: 22px 10px;
+	width: 150px;
 }
 .about-work {
 	max-width: 600px;
@@ -54,13 +54,13 @@ h1 {
 }
 .left-panel hr {
 	background-color: #ffb84d;
-	border: 4px solid #ffb84d;
-	width: 80%;
+	border: 3px solid #ffb84d;
+	width: 85%;
 	margin-right: -15px;
 }
 .main-part hr {
 	background-color: #1a1a1a;
-	border: 4px solid #1a1a1a;
+	border: 3px solid #1a1a1a;
 }
 .ss-boxes {
 	display: grid;
@@ -82,4 +82,7 @@ h1 {
 }
 a {
 	color: #ffb84d;
+}
+.certificates ul {
+	list-style: disc;
 }
