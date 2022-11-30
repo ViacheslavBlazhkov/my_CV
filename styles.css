@@ -86,3 +86,7 @@ a {
 .certificates ul {
 	list-style: disc;
 }
+.projects a {
+	color: #1a1a1a;
+	font-size: 18px;
+}
